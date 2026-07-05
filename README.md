@@ -28,8 +28,9 @@ gym_recommender.py   # Full app: workout database, recommendation algorithm, PyQ
 ```
 
 ## Screenshots
-<img width="960" height="506" alt="week 1 p2" src="https://github.com/user-attachments/assets/4b579a0b-b24f-4d0a-81e8-ba7514f357b2" />
+
 <img width="960" height="496" alt="week 1" src="https://github.com/user-attachments/assets/20e0815f-0593-4897-b836-81d3bb750e60" />
+<img width="960" height="506" alt="week 1 p2" src="https://github.com/user-attachments/assets/4b579a0b-b24f-4d0a-81e8-ba7514f357b2" />
 <img width="1920" height="1023" alt="image" src="https://github.com/user-attachments/assets/6201709c-9110-4faa-8793-0ef8a6371ff1" />
 
 ## How AI Was Used
@@ -38,4 +39,4 @@ I used Claude to help scaffold the initial project structure, generate the sampl
 
 ## Author
 
-Zain Ullah Khan — M-Tech AI/ML Internship, Batch 2026
+Zain Ullah Khan
